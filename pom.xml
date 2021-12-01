@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.unifacef</groupId>
-	<artifactId>price-api</artifactId>
+	<artifactId>inventory-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>price-api</name>
-	<description>Api para cadastro de preços</description>
+	<name>inventory-api</name>
+	<description>Api para cadastro de posições de estoque</description>
 
 	<properties>
 		<java.version>8</java.version>
